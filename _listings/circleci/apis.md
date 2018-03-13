@@ -31,7 +31,7 @@ apis:
   tags: Fingerprint
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/fingerprint/master/_listings/circleci/project-username-project-checkout-key-fingerprint-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/fingerprint/master/_listings/circleci/project-username-project-checkout-key-fingerprint-parameters.md
 x-common:
 - type: x-blog
   url: https://circleci.com/blog/
